@@ -7,9 +7,6 @@ Submitted by: **Ryan Recta**
 Time spent: **10** hours spent in total
 
 ## User Stories
-I thought I could just follow along and just click and type everything the videos said, but thats not true, So it took me sometime to figure out what I was working with. I also struggled in the
-beginning because I didn't know I was using ConstrainLayout rather than RelativeLayout, which was the one that the guy in the video was using. In the end of my first attempt, I only had two bugs
-which took a lot of time to fix.
 
 The following **required** functionality is completed:
 
@@ -36,6 +33,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I thought I could just follow along and just click and type everything the videos said, but thats not true, So it took me sometime to figure out what I was working with. I also struggled in the
+beginning because I didn't know I was using ConstrainLayout rather than RelativeLayout, which was the one that the guy in the video was using. In the end of my first attempt, I only had two bugs
+which took a lot of time to fix.
 
 ## License
 
